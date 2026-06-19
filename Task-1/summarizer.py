@@ -2,7 +2,7 @@
 AI-Powered Document Summarization System
 Task ID: AI-INT-1
 TEYZIX CORE Internship - June Batch
-Author: [Your Name]
+Author: [Nimrita Dhomeja]
 """
 
 import os
